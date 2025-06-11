@@ -1,0 +1,4 @@
+student_id,course_code,predicted_pass,pass_probability
+20261000,IS 499,True,0.96
+20261101,CS 450,True,0.95
+20261102,IS 443,True,0.94

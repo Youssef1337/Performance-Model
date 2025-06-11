@@ -1,0 +1,16 @@
+has_prerequisites
+credits
+attendance_rate
+midterm_score
+final_score
+assignment_score
+past_avg_total_score
+past_avg_midterm_score
+past_avg_final_score
+past_avg_assignment_score
+past_avg_attendance
+past_pass_rate
+courses_taken
+dept_pass_rate
+prereq_avg_score
+prereq_pass_rate
